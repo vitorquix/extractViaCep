@@ -9,4 +9,5 @@ How to use
 Just create a .csv file, containing a column "CEP" and ZIP codes that you want to find
 
 ``` 
+Output file is "baseViaCep.csv"
 ```
